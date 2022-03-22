@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "canvas-victor-331511",
+    "private_key_id": "15a68ac6cb867f43645dec9eeee319c527e3ace6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDcMoh0C5siq0ne\nlqHb3hdXgHW/d1kZCc8Dm7ltzIzQ8vnXz29w4Pb7kPtg9YTvDO7ediWhA1KzID+1\n6RV6MUuYFpkublf9dVGX0875ATR6qwnWzL4QAuokQw9kY6CqXaqQSxAVY5OO3JuF\n02IQT/PFvBYWp6JN64ZFrMQDQ8PvVaqc4UhUVX1SPLl9KLG+PxfPQTWWM/0Wl9/4\ntjWw4HnxMSv4PxmHY3YDsXDYONq7PZDxVCQXPjimMxiklgoG2lpoGvY0NTzz85a/\nP9/XPe40I85J79L4EF/8LeFJvRZaYceYp0Q7X8afMPEVVyax2xU7o895riRL7pQ4\n9IivObzBAgMBAAECggEAAe0SOvugAYNgi8kjBM6SQzJtNT3IwnqOvEAYNODpaWl6\nrHvUxHa/Sk+IF17GaSXikAEWDqy+BDGXxRJTHQTB3cRy1hBihiXIzyxr3ss3J4yH\n80BKuE6iOCt6/ryNWvgjRgxWCW3bzE/bL2Y8MRrV7ciZo9yXA5n4DHN4qnOlCtqf\nkfWRpUilUT1vVXDJh49+zeVMRXXPBXsagWdz7Dm+i54rW+ASFTIpjCzVJ0p4DYun\nDsYAJh4ckdY6+Hjvr2N/lux9Od3GgU7DWvLGISWUUVI+753FWss9H1ppars2PlnT\nk8C68vWp6ROFjtiYas5p06vEgzZuEBMuCiYWXK+JwQKBgQD0DQe60ywqa33epdcH\nXIGnq0dw4zXAMj7a/fgoejqCTMM6nbFqostwptXJGdJh3wRpdfoKDself8BSr9r7\nBC0NRdDiW856kPoyL9n0BsCD2lBuAmxqcblnPFU9zo3yomqNBnBZQtQoDkylD9p5\nDzP2tyOcRbFk62kDcOX+w0IskQKBgQDm+oT9xc3XleoHOCwOCU6GLt8CxQsyYTjC\nqNBwRhecmiyHm1apTac1G3zyJ7zXwFUE57t9dIevMiYMUBjhia81gAkIokDblMJk\nIXuLnNEqFpZqRvlt2tAIAOtixnyFJ+ndFu8KXqY/rEZfSIRDngoWjZ0IrOxvqTSS\niFzoeVplMQKBgFshYnmI0T0l1mKFWr4M9P0/H/YvYarbGE19+GRk/+QX9e61Y8KF\n96GhKsNlOQIC3QrkWvHWgwZxpcc6k3KYJJqIL2/XCEsMR+DlrWVKACk8JDxv+zvk\nK285QDtMHgU0UMVIWjt6kO5EKKqaOOJrouPFjy6Td6JPpW77gWaYUuWBAoGAbdaB\n+Z/fs/5RTN+Ua5RXaA3P9SQ4n9uFv2PBwzJBtjHGrTHccyQ/OEz7DLiC3+JRS8Ta\n7tzETTa+yyonutDbpcheA2IND55dFnqpoomPGcGmA6H+qRPdy4CMbutOeY+ycXWf\ndMHvsuW8jUERzInR6EmtfFunD65aFriL3e0fZHECgYA/tjpEuehR93ukNP763IWE\nXEYyATklkt2iAy73IaHVmgbqn96ORLztfA9r+Knhk5pMIMdFuTpGfF8H58Spvmrm\n8CL04UdxtfP2zMtITw113S2xdDpXioBWemvK3hlMdfs6ZfziwwtTVpxWiVUlMGnu\noj/x9coRRIyuukz/AWJBjg==\n-----END PRIVATE KEY-----\n",
+    "client_email": "farhan@canvas-victor-331511.iam.gserviceaccount.com",
+    "client_id": "103954990309813673001",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/farhan%40canvas-victor-331511.iam.gserviceaccount.com"
+  }
